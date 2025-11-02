@@ -14,7 +14,7 @@ Most Onchain games don't have a sustainable retention structure, or players don'
 Our game is very casual and beneficial for users' daily lives. It is also very social-oriented, so attendees can enjoy it together. We aimed to build it using the Farcaster frame for users' daily habits and engagement. Each play is valuable for users' lives, and it will also be suitable for the Farcaster as content. It is a positive sum game model with Users and Farcaster.
 
 In addition, deposit and distribution money features will be run by an onchain smart contract. This is totally trustless and also requires fewer human resources. Finally, the Base chain is very gas-friendly, so that's why we were able to reduce the fee to join the game and make users play it every day.
-
+none
 ### Challenges we ran into
 We chose a skin-in-the-game structure using onchain money management (deposit and distribute). We tested it thoroughly because if there was a bug, money would be lost.
 
